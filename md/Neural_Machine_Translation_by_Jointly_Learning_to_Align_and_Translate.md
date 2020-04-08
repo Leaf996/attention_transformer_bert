@@ -19,8 +19,12 @@
 - [Sequence to Sequence Networks][11]
 - [Attention Mechanism][12]
 - [Attention Mechanism: Benefits and Applications][13]
-- [Attention? Attention!][14]
+- [**Attention? Attention!**][14]
 - [The Unreasonable Effectiveness of Recurrent Neural Networks][15]
+- [**Attention机制详解（二）——Self-Attention与Transformer**][22]
+- [**A Beginner's Guide to Attention Mechanisms and Memory Networks**][23]
+- [**Illustrated: Self-Attention**][24]
+
 
 ### NMT Reference Repo
 - [attention-nmt][1]
@@ -29,7 +33,7 @@
 - [attention-nmt][4]
 - [NMT][5]
 - [RNNSearch][6]
-
+- [**基于注意力的神经机器翻译**][21]
 
 ### Seq2Seq Reference Repo
 - [seq2seq][16]
@@ -59,3 +63,7 @@
 [18]:https://github.com/keon/seq2seq
 [19]:https://github.com/bentrevett/pytorch-seq2seq
 [20]:https://github.com/IBM/pytorch-seq2seq
+[21]:https://www.tensorflow.org/tutorials/text/nmt_with_attention
+[22]:https://zhuanlan.zhihu.com/p/47282410
+[23]:https://pathmind.com/wiki/attention-mechanism-memory-network
+[24]:https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a
