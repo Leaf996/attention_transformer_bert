@@ -2,6 +2,9 @@
 - attention_transformer_bert
 
 # paper list
+- sequence-to-sequence-learning-with-neural-networks(**Seq2Seq**)
+    - [sequence-to-sequence-learning-with-neural-networks(pdf)][11]
+    - [sequence-to-sequence-learning-with-neural-networks(md)][12]
 - Neural_Machine_Translation_by_Jointly_Learning_to_Align_and_Translate(**First Attention, additive attention**)
     - [Neural_Machine_Translation_by_Jointly_Learning_to_Align_and_Translate(pdf)][3]
     - [Neural_Machine_Translation_by_Jointly_Learning_to_Align_and_Translate(md)][4]
@@ -28,3 +31,5 @@
 [8]:md/Long_Short_Term_Memory_Networks_for_Machine_Reading.md
 [9]:pdf/Attention_is_all_you_need.pdf
 [10]:md/Attention_is_all_you_need.md
+[11]:pdf/sequence-to-sequence-learning-with-neural-networks.pdf
+[12]:md/sequence-to-sequence-learning-with-neural-networks.md
