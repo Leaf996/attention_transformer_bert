@@ -2,19 +2,19 @@
 - attention_transformer_bert
 
 # paper list
-- Neural_Machine_Translation_by_Jointly_Learning_to_Align_and_Translate(First Attention, additive attention)
+- Neural_Machine_Translation_by_Jointly_Learning_to_Align_and_Translate(**First Attention, additive attention**)
     - [Neural_Machine_Translation_by_Jointly_Learning_to_Align_and_Translate(pdf)][3]
     - [Neural_Machine_Translation_by_Jointly_Learning_to_Align_and_Translate(md)][4]
-- Effective Approaches_to_Attention-based_Neural_Machine_Translation(multiple attention)
+- Effective Approaches_to_Attention-based_Neural_Machine_Translation(**multiple attention**)
     - [Effective Approaches_to_Attention-based_Neural_Machine_Translation(pdf)][5]
     - [Effective Approaches_to_Attention-based_Neural_Machine_Translation(md)][6]
-- Long_Short_Term_Memory_Networks_for_Machine_Reading(self-attention)
+- Long_Short_Term_Memory_Networks_for_Machine_Reading(**self-attention**)
     - [Long_Short_Term_Memory_Networks_for_Machine_Reading(pdf)][7]
     - [Long_Short_Term_Memory_Networks_for_Machine_Reading(md)][8]
-- Attention_is_all_you_need(transformer)
+- Attention_is_all_you_need(**transformer**)
     - [Attention_is_all_you_need(pdf)][9]
     - [Attention_is_all_you_need(md)][10]
-- Listen, Attend and Spell(attention end2end asr)
+- Listen, Attend and Spell(**attention end2end asr**)
     - [Listen, Attend and Spell(pdf)][1]
     - [Listen, Attend and Spell(md)][2]
 
