@@ -4,7 +4,7 @@
 
 
 ### Key Concepts
-- **First Blood**
+- **First Blood(seq2seq)**
 - Beam Search
 
 
