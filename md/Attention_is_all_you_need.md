@@ -18,7 +18,7 @@
 
 ### Reference Repo
 - [transformer-tensorflow][1]
-- [tensor2tensor][8]
+- [**tensor2tensor**][8]
 - [annotated-transformer][9]
 - [sockeye][10]
 
@@ -40,6 +40,8 @@
 - [Visualizing A Neural Machine Translation Model][6]
 - [**The Annotated Transformer**][7]
 - [**理解语言的 Transformer 模型**][11]
+- [**Glossary of Deep Learning: Word Embedding**][12]
+- [Transformer: A Novel Neural Network Architecture for Language Understanding][13]
 
 
 [1]:https://github.com/lilianweng/transformer-tensorflow
@@ -53,3 +55,5 @@
 [9]:https://github.com/harvardnlp/annotated-transformer
 [10]:https://github.com/awslabs/sockeye
 [11]:https://www.tensorflow.org/tutorials/text/transformer#training_and_checkpointing
+[12]:https://medium.com/deeper-learning/glossary-of-deep-learning-word-embedding-f90c3cec34ca
+[13]:https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
