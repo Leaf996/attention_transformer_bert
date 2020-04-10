@@ -6,7 +6,7 @@
 
 
 ### Reference Repo
-- [Listen-Attend-Spell-v2][1]
+- [**Listen-Attend-Spell-v2(beam search implementation)**][1]
 - [Listen-Attend-Spell][2]
 - [End-to-end-ASR-Pytorch][3]
 - [LAS-Chinese-pytorch][4]
