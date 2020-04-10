@@ -1,12 +1,19 @@
 ## sequence-to-sequence-learning-with-neural-networks
 ### Questions
-- TODO
+- How to rescore ?
 
 
 ### Key Concepts
 - **First Blood(seq2seq)**
 - Beam Search
+- **Reversing the Source Sentences**
+- minimal time lag
+- sentences within a minibatch were roughly of the same length
 
+
+### Application
+- RNN-Language Model(RNNLM)
+- Feedforward Neural Network Language Model(NNLM)
 
 ### Reference Repo
 - [基于注意力的神经机器翻译][1]
