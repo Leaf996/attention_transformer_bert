@@ -29,6 +29,8 @@
     - [bert][14]
     - [transformers][16]
 
+# awesome repo
+- [bertviz][17]
 
 
 [1]:pdf/Listen_attend_spell.pdf
@@ -47,3 +49,4 @@
 [14]:https://github.com/google-research/bert
 [15]:http://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
 [16]:https://github.com/huggingface/transformers
+[17]:https://github.com/jessevig/bertviz
